@@ -1,0 +1,25 @@
+PDF TO JPG CONVERTER - HOW TO RUN
+
+WINDOWS (EXE VERSION)
+
+1.  Put your PDF file inside this folder.
+
+2.  Rename the PDF file to:
+
+    convert.pdf
+
+3.  Double click the EXE file.
+
+4.  Wait for conversion to finish.
+
+5.  Your images will be inside:
+
+    output_images folder
+
+IMPORTANT:
+
+-   The PDF file name must be exactly: convert.pdf
+-   Do not rename the EXE file.
+-   Keep everything inside the same folder.
+
+Done 😎
